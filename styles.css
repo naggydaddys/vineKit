@@ -1,0 +1,138 @@
+body {
+  text-align: center;
+  background-color: #00a478;
+}
+
+h1 {
+  font-size: 5rem;
+  color: white;
+  font-family: "Montserrat";
+  margin: 0;
+
+}
+h2{
+  margin:0;
+  font-family: sans-serif;
+  font-size: 1rem;
+  color: white;
+  padding: 0% 3% 0%;
+}
+
+footer {
+  color: white;
+  font-family: sans-serif;
+}
+#title{
+  margin: 3% auto;
+}
+
+/* BUTTON SPECIFICS */
+.twoBros {
+  background-image: url("images/two-bros.svg");
+}
+.freshAvo {
+  background-image: url("images/freshAvo.svg");
+}
+.croissant {
+  background-image: url("images/croissant.svg");
+}
+
+.countryBoy {
+  background-image: url("images/countryBoy.svg");
+}
+
+.meToo {
+  background-image: url("images/meToo.svg");
+}
+
+.yeet {
+  background-image: url("images/yeet.svg");
+}
+
+.jared {
+    background-image: url("images/jared.svg");
+}
+.noSleep{
+    background-image: url("images/noSleep.svg");
+}
+.dudes{
+    background-image: url("images/dudes.svg");
+}
+.beef{
+    background-image: url("images/beef.svg");
+}
+.yoyo{
+  background-image: url("images/yoyo.svg");
+}
+.roadWork{
+  background-image: url("images/roadWork.svg");
+}
+.wontHesitate{
+  background-image: url("images/wontHesitate.svg");
+}
+.roommates{
+  background-image: url("images/roommates.svg");
+}
+.chickenStrips{
+  background-image: url("images/chickenStrips.svg");
+}
+.chipotle{
+  background-image: url("images/chipotle.svg");
+}
+.churchGirl{
+  background-image: url("images/churchGirl.svg");
+}
+.crackKid{
+  background-image: url("images/crackKid.svg");
+}
+.crocs{
+  background-image: url("images/crocs.svg");
+}
+.freakinBats{
+  background-image: url("images/freakinBats.svg");
+}
+.heyDuck{
+  background-image: url("images/heyDuck.svg");
+}
+.juan{
+  background-image: url("images/juan.svg");
+}
+.mothertrucker{
+  background-image: url("images/mothertrucker.svg");
+}
+.oovoo{
+  background-image: url("images/oovoo.svg");
+}
+.target{
+  background-image: url("images/target.svg");
+}
+.wednesday{
+  background-image: url("images/wednesday.svg");
+}
+
+/* BUTTON SET */
+.set {
+  margin: 2% auto;
+}
+
+/* BUTTON INTERACTIONS */
+.pressed, .sound:hover {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+/* ALL BUTTONS */
+.sound {
+  outline: none;
+  border: 10px solid #038164;
+  border-radius: 15px;
+  display: inline-block;
+  width: 125px;
+  height: 125px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  background-size: 90%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
